@@ -36,7 +36,7 @@ Pra fazer a movimentação deste estado do caçador, ele checa a posição atual
 
 ## Grid 
 
-Criação da grid usando uma matriz bidimensional. Inicialmente crimaos as linhas e colocamos 'X' nelas, e em seguida preenchemos o resto dos espaços de acordo com o tamanho da grid que pode ser definido.
+Criação da grid usando uma matriz bidimensional. Inicialmente criamos as linhas e colocamos 'X' nelas, e em seguida preenchemos o resto dos espaços de acordo com o tamanho da grid que pode ser definido.
 
 ![image](https://user-images.githubusercontent.com/26562023/234455110-e6cb5f59-ce5d-4647-8024-e3d7f3dd658e.png)
 
